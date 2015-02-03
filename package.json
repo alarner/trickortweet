@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/alarner/trickortweet",
   "dependencies": {
-    "twitter": "^1.2.1"
+    "node-tweet-stream": "^1.6.0"
   }
 }
